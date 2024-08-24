@@ -4,8 +4,8 @@ Welcome to the **Simple Cafe Menu** project! This is a simple static webpage sho
 
 ## Technologies Used
 
-- **HTML5** - For structuring the content.
-- **CSS3** - For styling the page.
+- **HTML** - For structuring the content.
+- **CSS** - For styling the page.
 
 
 ![Alt Text](https://github.com/mansi2804/cafe-menu/blob/main/Output.png)
