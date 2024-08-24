@@ -7,13 +7,5 @@ Welcome to the **Simple Cafe Menu** project! This is a simple static webpage sho
 - **HTML5** - For structuring the content.
 - **CSS3** - For styling the page.
 
-## Project Structure
-
-```bash
-simplecafe-menu/
-│
-├── index.html         # The main HTML file
-├── styles.css         # The main CSS file
-└── assets/            # Folder for images or additional assets (if any)
 
 ![Alt Text](https://github.com/mansi2804/cafe-menu/blob/main/Output.png)
